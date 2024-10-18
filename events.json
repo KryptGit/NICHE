@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Hispanic Heritage Festival",
+        "date": "October 15, 2024",
+        "tags": [
+            "Music",
+            "Family",
+            "Hispanic"
+        ],
+        "location": "Central Park, Dallas",
+        "price": "Free",
+        "details": "A vibrant festival celebrating Hispanic heritage with live music, food stalls, and family-friendly activities.",
+        "link": "https://www.amazon.com"
+    },
+    {
+        "title": "African Art Exhibition",
+        "date": "October 20, 2024",
+        "tags": [
+            "Art",
+            "Exhibition",
+            "African"
+        ],
+        "location": "Lone Star Gallery, Grand Prairie",
+        "price": "$20",
+        "details": "An exhibition showcasing contemporary African art from local artists.",
+        "link": "https://www.amazon.com"
+    },
+    {
+        "title": "Indian Dance Performance",
+        "date": "October 25, 2024",
+        "tags": [
+            "Dance",
+            "Performance",
+            "Indian"
+        ],
+        "location": "Texas Theater, Ennis",
+        "price": "$15",
+        "details": "A mesmerizing dance performance featuring traditional and modern Indian dance forms.",
+        "link": "https://www.amazon.com"
+    },
+    {
+        "title": "Asian Food Festival",
+        "date": "October 28, 2024",
+        "tags": [
+            "Food",
+            "Festival",
+            "Asian"
+        ],
+        "location": "The Star, Frisco",
+        "price": "$50",
+        "details": "A food festival with a variety of Asian cuisines, cooking demonstrations, and tasting sessions.",
+        "link": "https://www.amazon.com"
+    },
+    {
+        "title": "Caribbean Music Concert",
+        "date": "October 30, 2024",
+        "tags": [
+            "Music",
+            "Concert",
+            "Caribbean"
+        ],
+        "location": "Downtown Arena, Dallas",
+        "price": "$30",
+        "details": "A live music concert featuring popular Caribbean bands and solo artists.",
+        "link": "https://www.amazon.com"
+    },
+    {
+        "title": "Headshot photos ",
+        "date": "2024-11-07",
+        "tags": [
+            "Photo"
+        ],
+        "location": "Lonestar",
+        "price": 0.0,
+        "details": "",
+        "link": null
+    },
+    {
+        "title": "Indian Garba",
+        "date": "2024-10-19",
+        "tags": [
+            "Music",
+            "Dance",
+            "Food"
+        ],
+        "location": "LoneStar Highschool",
+        "price": 5.0,
+        "details": "This is a dance festival for all ages",
+        "link": null
+    }
+]
